@@ -56,7 +56,7 @@ KAIROS_Public_Release/
 
 1. **Clone or download the repository:**
    ```bash
-   cd KAIROS_PUBLIC_RELEASE/
+   cd KAIROS_Public_Release/
    ```
 
 2. **Run the orchestration engine:**
