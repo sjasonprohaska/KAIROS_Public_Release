@@ -38,12 +38,11 @@ Kairos OS ∞ provides:
 ## 🧰 System Architecture
 
 ```
-KAIROS_stack/
+KAIROS_Public_Release/
 └── PY_stack/
-    ├── kairos_core.py        # Core decision and audit engine
-    ├── kairos_console.py     # CLI interface for scenario testing
-    ├── kairos_digest.py      # Audit digest generation module
-    └── output/               # Generated audit files directory
+    ├── kairos_core.py      # Public orchestration interface and ethical audit stub
+    └── output/             # Generated audit digests and trace logs (runtime only, not committed)
+
 ```
 
 ---
