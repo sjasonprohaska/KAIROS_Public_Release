@@ -20,6 +20,7 @@ This repository includes:
 - **License.txt** — Full license text (CC BY-NC-ND 4.0)
 - **Sovereign Co-Creation Agreement v1.2** — Commercial licensing terms
 - **readme.txt** — Command-line interface documentation
+> **Note:** Only files explicitly listed above are included in this public release. Internal orchestration modules (e.g., `kairos_console.py`, `kairos_digest.py`) are excluded and remain proprietary. This repository does not distribute executable or trainable model components.
 
 ---
 
