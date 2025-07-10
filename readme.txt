@@ -8,12 +8,11 @@ This is a prototype implementation of Kairos OS: an ethical AI decision system w
 ## File Structure
 
 ```
-KAIROS_stack/
+KAIROS_Public_Release/
 └── PY_stack/
-    ├── kairos_core.py         # Core decision and audit engine
-    ├── kairos_console.py      # CLI interface for scenario testing
-    ├── kairos_digest.py       # Automated audit digest generation
-    └── output/                # Generated audit documentation directory
+    ├── kairos_core.py      # Public orchestration interface and ethical audit stub
+    └── output/             # Generated audit digests and trace logs (runtime only, not committed)
+
 ```
 
 ---
