@@ -104,3 +104,7 @@ For production deployment in enterprise or institutional environments:
 **Kairos OS** provides transparent, auditable AI decision-making processes designed for enterprise compliance and stakeholder accountability.
 
 ---
+
+## > **Note:** The `kairos_core.py` module provides the core public orchestration interface.
+
+---
