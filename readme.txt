@@ -14,6 +14,7 @@ KAIROS_Public_Release/
     └── output/             # Generated audit digests and trace logs (runtime only, not committed)
 
 ```
+> **Note:** Only files explicitly listed above are included in this public release. Internal orchestration modules (e.g., `kairos_console.py`, `kairos_digest.py`) are excluded and remain proprietary. This repository does not distribute executable or trainable model components.
 
 ---
 
