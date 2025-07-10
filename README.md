@@ -64,6 +64,7 @@ KAIROS_Public_Release/
    ```bash
    python kairos_core.py "Should we share patient data with insurance partners?"
    ```
+> **Note:** The `kairos_core.py` module provides the core public orchestration interface.
 
 3. **System output includes:**
    - Ethical compliance clause triggers
@@ -99,6 +100,16 @@ For detailed technical reference, see:
 - `kairos_invocation_terms.md` — Usage terms and deployment guidelines
 - `sample_trace.json` — Example audit trace format
 - `Sovereign Co-Creation Agreement v1.2` — Commercial licensing terms
+
+---
+
+## 🧪 Live Technical Artifact
+
+View the interactive **Kairos Evaluation: Constitutional AI Compliance Mapping** (v0.1.0‑rc1) here:
+
+🔗 [View on CodePen](https://codepen.io/S-Jason-Prohaska/live/xbwxJzP)
+
+This live artifact demonstrates how Kairos aligns with industry evaluation standards and complements the compliance mapping in `kairos_compliance_mapping.md`. It is fully cleared for public consumption and VC diligence.
 
 ---
 
