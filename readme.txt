@@ -36,7 +36,7 @@ KAIROS_Public_Release/
 
 ### Command Line Interface:
 ```bash
-python kairos_console.py "Should we share patient data with insurance partners?"
+python kairos_core.py "Should we share patient data with insurance partners?"
 ```
 
 ### Expected Output:
