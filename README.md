@@ -12,13 +12,13 @@ This repository includes:
 
 - **kairos_core.py** — Core orchestration logic and decision engine
 - **kairos_clauses.md** — Ethical compliance framework (C-01 to C-12)
-- **kairos_compliance_mapping.md** — ISO/IEC 42001, NIST AI RMF, and EU AI Act alignment references
+- **karios_compliance_mapping.md** — ISO/IEC 42001, NIST AI RMF, and EU AI Act alignment references
 - **kairos_invocation_terms.md** — Deployment terms and usage guidance
 - **kairos_manifest.json** — System state manifest and configuration
-- **digest_log_index.json** — Index of generated ethical audit digests
-- **sample_trace.json & sample_digest.md** — Example audit outputs and trace logs
-- **License.txt** — Full license text (CC BY-NC-ND 4.0)
-- **Sovereign Co-Creation Agreement v1.2** — Commercial licensing terms
+- **kairos_product_brief.md** — Product overview
+- **kairos_public_release.md** — Public release text
+- **LICENSE.txt** — Full license text (CC BY-NC-ND 4.0)
+- **Sovereign_Co-Creation_Agreement_v1.2.md** — Commercial licensing terms
 - **readme.txt** — Command-line interface documentation
 > **Note:** Only files explicitly listed above are included in this public release. Internal orchestration modules (e.g., `kairos_console.py`, `kairos_digest.py`) are excluded and remain proprietary. This repository does not distribute executable or trainable model components.
 
@@ -40,10 +40,8 @@ Kairos OS ∞ provides:
 
 ```
 KAIROS_Public_Release/
-└── PY_stack/
-    ├── kairos_core.py      # Public orchestration interface and ethical audit stub
-    └── output/             # Generated audit digests and trace logs (runtime only, not committed)
-
+├── kairos_core.py      # Public orchestration interface and ethical audit stub
+└── output/             # Generated audit digests and trace logs (runtime only, not committed)
 ```
 
 ---
@@ -96,10 +94,9 @@ KAIROS_Public_Release/
 For detailed technical reference, see:
 
 - `kairos_clauses.md` — Ethical compliance framework
-- `kairos_compliance_mapping.md` — Standards alignment mapping
+- `karios_compliance_mapping.md` — Standards alignment mapping
 - `kairos_invocation_terms.md` — Usage terms and deployment guidelines
-- `sample_trace.json` — Example audit trace format
-- `Sovereign Co-Creation Agreement v1.2` — Commercial licensing terms
+- `Sovereign_Co-Creation_Agreement_v1.2.md` — Commercial licensing terms
 
 ---
 
@@ -109,7 +106,7 @@ View the interactive **Kairos Evaluation: Constitutional AI Compliance Mapping**
 
 🔗 [View on CodePen](https://codepen.io/S-Jason-Prohaska/live/xbwxJzP)
 
-This live artifact demonstrates how Kairos aligns with industry evaluation standards and complements the compliance mapping in `kairos_compliance_mapping.md`. It is fully cleared for public consumption and VC diligence.
+This live artifact demonstrates how Kairos aligns with industry evaluation standards and complements the compliance mapping in `karios_compliance_mapping.md`. It is fully cleared for public consumption and VC diligence.
 
 ---
 
@@ -125,7 +122,7 @@ Kairos OS ∞ is licensed under **CC BY-NC-ND 4.0 International** (https://creat
 - 🔗 Commercial inquiries must follow: Sovereign Co-Creation Agreement v1.2
 - 📝 Attribution to S. Jason Prohaska as original author required
 
-Full license text: `License.txt`
+Full license text: `LICENSE.txt`
 
 ---
 
