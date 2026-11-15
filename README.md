@@ -12,13 +12,13 @@ This repository includes:
 
 - **kairos_core.py** — Core orchestration logic and decision engine
 - **kairos_clauses.md** — Ethical compliance framework (C-01 to C-12)
-- **karios_compliance_mapping.md** — ISO/IEC 42001, NIST AI RMF, and EU AI Act alignment references
+- **karios_compliance_mapping.md**: ISO/IEC 42001, NIST AI RMF, and EU AI Act alignment references
 - **kairos_invocation_terms.md** — Deployment terms and usage guidance
 - **kairos_manifest.json** — System state manifest and configuration
-- **kairos_product_brief.md** — Product overview
-- **kairos_public_release.md** — Public release text
-- **LICENSE.txt** — Full license text (CC BY-NC-ND 4.0)
-- **Sovereign_Co-Creation_Agreement_v1.2.md** — Commercial licensing terms
+- **kairos_product_brief.md**: Product overview
+- **kairos_public_release.md**: Public release text
+- **LICENSE.txt**: Full license text (CC BY-NC-ND 4.0)
+- **Sovereign_Co-Creation_Agreement_v1.2.md**: Commercial licensing terms
 - **readme.txt** — Command-line interface documentation
 > **Note:** Only files explicitly listed above are included in this public release. Internal orchestration modules (e.g., `kairos_console.py`, `kairos_digest.py`) are excluded and remain proprietary. This repository does not distribute executable or trainable model components.
 
@@ -94,9 +94,9 @@ KAIROS_Public_Release/
 For detailed technical reference, see:
 
 - `kairos_clauses.md` — Ethical compliance framework
-- `karios_compliance_mapping.md` — Standards alignment mapping
+- `karios_compliance_mapping.md`: Standards alignment mapping
 - `kairos_invocation_terms.md` — Usage terms and deployment guidelines
-- `Sovereign_Co-Creation_Agreement_v1.2.md` — Commercial licensing terms
+- `Sovereign_Co-Creation_Agreement_v1.2.md`: Commercial licensing terms
 
 ---
 
