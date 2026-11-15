@@ -9,10 +9,8 @@ This is a prototype implementation of Kairos OS: an ethical AI decision system w
 
 ```
 KAIROS_Public_Release/
-└── PY_stack/
-    ├── kairos_core.py      # Public orchestration interface and ethical audit stub
-    └── output/             # Generated audit digests and trace logs (runtime only, not committed)
-
+├── kairos_core.py      # Public orchestration interface and ethical audit stub
+└── output/             # Generated audit digests and trace logs (runtime only, not committed)
 ```
 > **Note:** Only files explicitly listed above are included in this public release. Internal orchestration modules (e.g., `kairos_console.py`, `kairos_digest.py`) are excluded and remain proprietary. This repository does not distribute executable or trainable model components.
 
@@ -24,10 +22,10 @@ KAIROS_Public_Release/
 
 ### Installation Steps:
 
-1. Download all files to the `PY_stack/` directory
+1. Download all files to one directory
 2. Open terminal and navigate to the installation folder:
    ```bash
-   cd path/to/KAIROS_stack/PY_stack
+   cd path/to/KAIROS_Public_Release
    ```
 
 ---
